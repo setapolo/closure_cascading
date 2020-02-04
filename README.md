@@ -6,11 +6,11 @@ Welcome to the closure_cascading wiki!
 ## ~(2)(3)(4)(2)(3)(4) loop
 <dl>
   <dt>(1)</dt>
-  <dd>object in oder to compare 2</dd>
+  <dd>object in oder to compare (2)</dd>
   <dt>(2)</dt>
   <dd>Comparison if</dd>
-  <dd> type is String it is compare to Object name</dd>
-  <dd>type is boolean which is to check Null</dd>
+  <dd> type is String it is compare to Object name of (1)</dd>
+  <dd>type is boolean which is to check Null of (1)</dd>
   <dt>(3)</dt>
   <dd>function if condition is true</dd>
   <dt>(4)</dt>
